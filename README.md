@@ -157,7 +157,7 @@ A continuación, se muestran capturas reales de la interfaz:
 </p>
 
 <p align="center">
-  <img src="assets/interfaz_resultado.png" width="600"/>
+  <img src="https://github.com/user-attachments/assets/88847c6d-eea5-4cd9-9c7e-a04fb54e2a29" width="800"/>
 </p>
 
 Cada vista guía al usuario paso a paso: desde la bienvenida e introducción, pasando por el escaneo en vivo con la cámara y hasta la presentación de los resultados, que incluyen la categoría del residuo y el color de contenedor recomendado según la normativa colombiana.
