@@ -3,7 +3,7 @@
 Este proyecto tiene como objetivo **facilitar la correcta separación de residuos sólidos** mediante inteligencia artificial, identificando en tiempo real la categoría y el contenedor indicado de un residuo a partir de una imagen capturada con la cámara del dispositivo.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33e785ed-37f9-444c-80ab-4cafb5d0026a1" width="500"/>
+  <img src="https://github.com/user-attachments/assets/eb92f42c-c1fc-4648-8850-5a650295bb9f" width="500"/>
 </p>
 
 
@@ -120,13 +120,14 @@ A continuación, se presentan las gráficas clave que resumen el rendimiento del
   <img src="https://github.com/user-attachments/assets/8d8d9752-c093-4971-9165-184f961f2830" width="500"/>
 </p>
 
-*Ilustración. Evolución de la pérdida durante el entrenamiento.*
+*Ilustración. Evolución de la exactitud durante el entrenamiento.*
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/75b379fe-1b8d-4b0e-887b-386d5c429c51" width="500"/>
 </p>
 
-*Ilustración. Evolución de la exactitud durante el entrenamiento.*
+
+*Ilustración. Evolución de la pérdida durante el entrenamiento.*
 
 ---
 
